@@ -14,9 +14,9 @@
 
 <br/>
 
-https://www.figma.com/design/w2YyJLkYwbXJXmdDjWeEqO/My-personal-portfolio?node-id=0-1&t=FfHqKOYig5YKHxMw-1
+[ figma  krypto website](https://www.figma.com/design/w2YyJLkYwbXJXmdDjWeEqO/My-personal-portfolio?node-id=0-1&t=FfHqKOYig5YKHxMw-1)
 
-- Prototype for desktop view: https://www.figma.com/proto/w2YyJLkYwbXJXmdDjWeEqO/My-personal-portfolio?node-id=5-3&node-type=canvas&t=jRvuTUQc90eEwQ7H-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=5%3A3
+- Prototype for desktop view:[ Link](https://www.figma.com/proto/w2YyJLkYwbXJXmdDjWeEqO/My-personal-portfolio?node-id=5-3&node-type=canvas&t=jRvuTUQc90eEwQ7H-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=5%3A3) 
 
 
 ## Playing a prototype on desktop
